@@ -1,13 +1,13 @@
 # Torque-Grafana-Dashboard
-Grafana Dashboard for Torque App Stats (Android, ODBII) - plot, pivot and display your 
+Grafana Dashboard for Torque App Stats (Android, ODBII) - plot, pivot and display your
 
 Using seanauff's wonderful Node Red endpoint to push the data from Torque -> Node Red -> MQTT and into Influx/Grafana
 
 https://github.com/seanauff/node-red-torque
 
-![Example](/Torque0.png)
-![Example](/Torque1.png)
-![Example](/Torque2.png)
+![Example](images/Torque0.png)
+![Example](images/Torque1.png)
+![Example](images/Torque2.png)
 
 
 # Requires;
